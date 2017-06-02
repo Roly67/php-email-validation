@@ -58,5 +58,5 @@ knowledge and software.
 The simple PHP script provided in this Github repository is provided for illustration purposes only and certainly 
 not good enough for serious applications.
 
-For industrial email validation please see my enterprise grade [email verification](https://www.emailhippo.com/en-US) solution 
+For industrial email validation please see my enterprise grade [email verification](https://www.emailhippo.com) solution 
 provided as a Software as a Service (SaaS) for both bulk list and real time API applications.
